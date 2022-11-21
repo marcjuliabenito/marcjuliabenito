@@ -1,4 +1,4 @@
-  - 👋 Hi, I’m @marcjuliabenito and I live in Barcelona
+  - 👋 Hi, I’m @marcjuliabenito and I live in Spain
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on great projects
