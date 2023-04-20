@@ -1,8 +1,8 @@
   - 👋 Hi, I’m @marcjuliabenito and I live in Spain
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML,CSS and JS
 - 💞️ I’m looking to collaborate on great projects
-- 📫 How to reach me --> marcjuliabenito@protonmail.me
+- 📫 How to reach me --> marc.benitojulia
 
 <!---
 marcjuliabenito/marcjuliabenito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
