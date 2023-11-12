@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML,CSS and JS
 - 💞️ I’m looking to collaborate on great projects
-- 📫 How to reach me --> marc.benitojulia@gmail.com
+- 📫 How to reach me --> marcjulia44@gmail.com
 
 <!---
 marcjuliabenito/marcjuliabenito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
