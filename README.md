@@ -1,6 +1,6 @@
   - 👋 Hi, I’m @marcjuliabenito and I live in Barcelona,Spain
-- 👀 I’m interested in web development and android.
-- 🌱 I’m currently learning HTML,CSS and JS
+- 👀 I’m interested in ethical hacking and pententing
+- 🌱 I’m currently studying networking and cybersecurity
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me --> marcjulia44@gmail.com
 
